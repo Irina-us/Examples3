@@ -1,0 +1,15 @@
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/Examples3/S003/obj/Debug/net6.0/S003.csproj.AssemblyReference.cache
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/Examples3/S003/obj/Debug/net6.0/S003.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/Examples3/S003/obj/Debug/net6.0/S003.AssemblyInfoInputs.cache
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/Examples3/S003/obj/Debug/net6.0/S003.AssemblyInfo.cs
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/Examples3/S003/obj/Debug/net6.0/S003.csproj.CoreCompileInputs.cache
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/Examples3/S003/bin/Debug/net6.0/S003
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/Examples3/S003/bin/Debug/net6.0/S003.deps.json
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/Examples3/S003/bin/Debug/net6.0/S003.runtimeconfig.json
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/Examples3/S003/bin/Debug/net6.0/S003.dll
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/Examples3/S003/bin/Debug/net6.0/S003.pdb
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/Examples3/S003/obj/Debug/net6.0/S003.dll
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/Examples3/S003/obj/Debug/net6.0/refint/S003.dll
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/Examples3/S003/obj/Debug/net6.0/S003.pdb
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/Examples3/S003/obj/Debug/net6.0/S003.genruntimeconfig.cache
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/Examples3/S003/obj/Debug/net6.0/ref/S003.dll
