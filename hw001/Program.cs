@@ -5,11 +5,14 @@
 // 3, 5 -> 243 (3⁵)
 // 2, 4 -> 16
 
-Console.Clear();
+// Console.Clear();
 System.Console.WriteLine("Введите целое число1");
 int num1 = Convert.ToInt32(Console.ReadLine());
 System.Console.WriteLine("Введите целое число2");
 int num2 = Convert.ToInt32(Console.ReadLine());
+
+ if (num2<0)
+num2= -num2;
 
 int result = 1;
 for (int i=1; i<=num2; i++)
